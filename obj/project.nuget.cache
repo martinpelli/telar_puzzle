@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t+0HFbg6UyYrneRO++WnuFfhpn9Lxbwq0T7vPtvHuJayXrgJO9Z0lGT4cgrpdxoyuJvvy5F138o5YYEXhLgp7Q==",
+  "success": true,
+  "projectFilePath": "/home/pelli/Documents/Repos/telar_puzzle/telar_puzzle.csproj",
+  "expectedPackageFiles": [
+    "/home/pelli/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
