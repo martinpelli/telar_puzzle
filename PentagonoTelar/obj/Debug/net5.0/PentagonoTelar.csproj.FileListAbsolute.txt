@@ -1,0 +1,16 @@
+C:\Users\marti\source\repos\PentagonoTelar\PentagonoTelar\bin\Debug\net5.0\PentagonoTelar.exe
+C:\Users\marti\source\repos\PentagonoTelar\PentagonoTelar\bin\Debug\net5.0\PentagonoTelar.deps.json
+C:\Users\marti\source\repos\PentagonoTelar\PentagonoTelar\bin\Debug\net5.0\PentagonoTelar.runtimeconfig.json
+C:\Users\marti\source\repos\PentagonoTelar\PentagonoTelar\bin\Debug\net5.0\PentagonoTelar.runtimeconfig.dev.json
+C:\Users\marti\source\repos\PentagonoTelar\PentagonoTelar\bin\Debug\net5.0\PentagonoTelar.dll
+C:\Users\marti\source\repos\PentagonoTelar\PentagonoTelar\bin\Debug\net5.0\ref\PentagonoTelar.dll
+C:\Users\marti\source\repos\PentagonoTelar\PentagonoTelar\bin\Debug\net5.0\PentagonoTelar.pdb
+C:\Users\marti\source\repos\PentagonoTelar\PentagonoTelar\obj\Debug\net5.0\PentagonoTelar.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\PentagonoTelar\PentagonoTelar\obj\Debug\net5.0\PentagonoTelar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\PentagonoTelar\PentagonoTelar\obj\Debug\net5.0\PentagonoTelar.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\PentagonoTelar\PentagonoTelar\obj\Debug\net5.0\PentagonoTelar.AssemblyInfo.cs
+C:\Users\marti\source\repos\PentagonoTelar\PentagonoTelar\obj\Debug\net5.0\PentagonoTelar.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\PentagonoTelar\PentagonoTelar\obj\Debug\net5.0\PentagonoTelar.dll
+C:\Users\marti\source\repos\PentagonoTelar\PentagonoTelar\obj\Debug\net5.0\ref\PentagonoTelar.dll
+C:\Users\marti\source\repos\PentagonoTelar\PentagonoTelar\obj\Debug\net5.0\PentagonoTelar.pdb
+C:\Users\marti\source\repos\PentagonoTelar\PentagonoTelar\obj\Debug\net5.0\PentagonoTelar.genruntimeconfig.cache
