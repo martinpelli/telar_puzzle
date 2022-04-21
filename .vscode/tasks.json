@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/PentagonoTelar/PentagonoTelar.csproj",
+                "${workspaceFolder}/telar_puzzle.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/PentagonoTelar/PentagonoTelar.csproj",
+                "${workspaceFolder}/telar_puzzle.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/PentagonoTelar/PentagonoTelar.csproj"
+                "${workspaceFolder}/telar_puzzle.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

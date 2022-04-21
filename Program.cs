@@ -2,10 +2,10 @@
 using System.IO;
 using System.Text;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Searching!")
 Telar();
 
-static voceid Telar()
+ void Telar()
         {
             int[] numbers = new int[20] { 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 32, 34, 38, 40 };
 
